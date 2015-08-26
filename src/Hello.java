@@ -1,7 +1,7 @@
 
 public class Hello {
 	
-	//comment 144444
-	//
-//
+public static void main(String[] args) {
+	System.out.println("Hallo Wereld");
+}
 }
